@@ -1,0 +1,275 @@
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\bin\Debug\Formulario.exe.config
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\bin\Debug\Formulario.exe
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\bin\Debug\Formulario.pdb
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.exe
+c:\users\pc320\documents\visual studio 2013\Projects\Formulario\Formulario\obj\Debug\Formulario.pdb
+J:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe.config
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.exe
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.pdb
+D:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe.config
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.exe
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.pdb
+D:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe
+D:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.pdb
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe.config
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.exe
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.pdb
+E:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe
+E:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.pdb
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmEstoque.resources
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+E:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe
+J:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.pdb
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmEstoque.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+J:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmEstoque.resources
+D:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe.config
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.exe
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.pdb
+I:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe
+I:\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.pdb
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmEstoque.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+I:\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmEstoque.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\Manager\Desktop\Mercado_KesleyVictor\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmBarra.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\PC320\Desktop\Daniels_Mercado\Formulario\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\PC320\Downloads\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\PC320\Downloads\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.exe
+C:\Users\PC320\Downloads\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.pdb
+C:\Users\PC320\Downloads\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.exe
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.pdb
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\bin\Debug\Formulario.exe
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\bin\Debug\Formulario.pdb
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarClien.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado (Pronto)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.exe
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.pdb
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.pdb
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarClien.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\AGNALDO\Desktop\ETEC\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe.config
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.exe
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.pdb
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.pdb
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarClien.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmCliente.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.DeletarFunc.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmLogin.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Principal.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.DeletarCli.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe.config
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.exe
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.pdb
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarClien.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmCliente.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmLogin.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Principal.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.exe
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\bin\Debug\Formulario.pdb
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.DeletarClie.resources
+I:\ETEC\3ºModulo\Prof.Robson\Daniels_Mercado(Finalizado)\Formulario (1)\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\bin\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.AlterarClien.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.DeletarClie.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\bin\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\bin\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Software Estudo\Formulario\obj\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\bin\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\bin\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\bin\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.AlterarClien.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.DeletarClie.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmLogin.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.Principal.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Software Daniel\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.AlterarClien.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.DeletarClie.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.LOGIN.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.frmPesquisarCli.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.frmPesquisarEst.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.frmPesquisarFunc.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\ClosedXML.dll
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\ClosedXML.pdb
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\ClosedXML.xml
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.EsqueceSenha.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.Menu.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.CADASTRO_USUARIO.Cadastro_Usuario.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.USUARIO_NOVO.resources
+C:\Users\Daniels\Desktop\Sistema (Atualizado)\Formulario\obj\Debug\Formulario.EXCEL_RELATORIOS.Exporta_Funcionario.resources

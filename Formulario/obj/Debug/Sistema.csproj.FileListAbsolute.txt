@@ -1,0 +1,60 @@
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\ClosedXML.dll
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\ClosedXML.pdb
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\ClosedXML.xml
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.CADASTRO_USUARIO.Cadastro_Usuario.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.EXCEL_RELATORIOS.Exporta_Funcionario.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.DeletarClie.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.EsqueceSenha.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.LOGIN.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.USUARIO_NOVO.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.exe.manifest
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.application
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.exe
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.btnSair.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.AlterarCliente.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Formulario.Redefinir.resources
+C:\Users\Daniels\Desktop\Sistemas C#\Sistema\Formulario\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.AlterarCliente.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.AlterarEsto.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.AlterarFunc.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.frmCliente.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.Cadastro_Estoq.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.frmFuncionario.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.CADASTRO_USUARIO.Cadastro_Usuario.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.EXCEL_RELATORIOS.Exporta_Funcionario.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.DeletarClie.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.DeletarEstoq.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.DeletarFuncio.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.EsqueceSenha.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.btnSair.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.LOGIN.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.Redefinir.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.USUARIO_NOVO.resources
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.exe
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Formulario.pdb
+C:\Users\danis\Documents\Sistema\Formulario\obj\Debug\Sistema.csproj.CoreCompileInputs.cache

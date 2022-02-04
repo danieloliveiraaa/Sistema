@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92B2CC71-AB8E-45B2-8516-197FC4086154}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Formulario</RootNamespace>
+    <AssemblyName>Formulario</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Daniels\Pictures\Camera Roll\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Formulario_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.0.1\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.0.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALTERACAO\AlterarClien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERACAO\AlterarClien.Designer.cs">
+      <DependentUpon>AlterarClien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERACAO\AlterarEsto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERACAO\AlterarEsto.Designer.cs">
+      <DependentUpon>AlterarEsto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERACAO\AlterarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERACAO\AlterarFunc.Designer.cs">
+      <DependentUpon>AlterarFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Clien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Clien.Designer.cs">
+      <DependentUpon>Cadastro_Clien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Func.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Func.Designer.cs">
+      <DependentUpon>Cadastro_Func.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Estoq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\Cadastro_Estoq.Designer.cs">
+      <DependentUpon>Cadastro_Estoq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRO_USUARIO\Cadastro_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRO_USUARIO\Cadastro_Usuario.Designer.cs">
+      <DependentUpon>Cadastro_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXCEL_RELATORIOS\Exporta_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXCEL_RELATORIOS\Exporta_Funcionario.Designer.cs">
+      <DependentUpon>Exporta_Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarClie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarClie.Designer.cs">
+      <DependentUpon>DeletarClie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarEstoq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarEstoq.Designer.cs">
+      <DependentUpon>DeletarEstoq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarFuncio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXCLUSAO\DeletarFuncio.Designer.cs">
+      <DependentUpon>DeletarFuncio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO\ESQUECI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO\ESQUECI.Designer.cs">
+      <DependentUpon>ESQUECI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO\MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO\MENU.Designer.cs">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO\LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO\LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="INICIO\USUARIO_NOVO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO\USUARIO_NOVO.Designer.cs">
+      <DependentUpon>USUARIO_NOVO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO\REDEFINIR_SENHA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO\REDEFINIR_SENHA.Designer.cs">
+      <DependentUpon>REDEFINIR_SENHA.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ALTERACAO\AlterarClien.resx">
+      <DependentUpon>AlterarClien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERACAO\AlterarEsto.resx">
+      <DependentUpon>AlterarEsto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERACAO\AlterarFunc.resx">
+      <DependentUpon>AlterarFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\Cadastro_Clien.resx">
+      <DependentUpon>Cadastro_Clien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\Cadastro_Estoq.resx">
+      <DependentUpon>Cadastro_Estoq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\Cadastro_Func.resx">
+      <DependentUpon>Cadastro_Func.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRO_USUARIO\Cadastro_Usuario.resx">
+      <DependentUpon>Cadastro_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXCEL_RELATORIOS\Exporta_Funcionario.resx">
+      <DependentUpon>Exporta_Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXCLUSAO\DeletarClie.resx">
+      <DependentUpon>DeletarClie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXCLUSAO\DeletarEstoq.resx">
+      <DependentUpon>DeletarEstoq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXCLUSAO\DeletarFuncio.resx">
+      <DependentUpon>DeletarFuncio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO\ESQUECI.resx">
+      <DependentUpon>ESQUECI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO\MENU.resx">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO\LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO\REDEFINIR_SENHA.resx">
+      <DependentUpon>REDEFINIR_SENHA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO\USUARIO_NOVO.resx">
+      <DependentUpon>USUARIO_NOVO.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadeado2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enviar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DANNNN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DANNNN %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_20210710_093143596.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\software dan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpar-limpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motor-de-pesquisa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro Menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagina-inicial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salve-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borracha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esta-bem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homem-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cilios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olho-meio-aberto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\positivo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
