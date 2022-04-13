@@ -158,13 +158,13 @@ namespace Formulario
 
             client.Port = 587;
 
-            client.Credentials = new System.Net.NetworkCredential("danisilvi.oli@hotmail.com", "danielonet321");
+            client.Credentials = new System.Net.NetworkCredential("exemplo@hotmail.com.br", "123456789");
 
 
             MailMessage mail = new MailMessage();
 
 
-            mail.From = new MailAddress("danisilvi.oli@hotmail.com");
+            mail.From = new MailAddress("exemplo@hotmail.com.br");
 
 
             mail.To.Add(new MailAddress(txtEmail.Text));
